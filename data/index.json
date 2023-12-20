@@ -1,0 +1,109 @@
+{
+    "jobTitle": [
+        {
+            "title": "a software developer",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "a youTuber",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "a founder and CEO at JT Devs",
+            "color": "rgb(153, 76, 150)"
+        },
+        {
+            "title": "an IT Lecturer",
+            "color": "rgb(0, 172, 230)"
+        }    
+    ],
+    "about": [
+        "My name is Unathi Gcetywa and i'm 19 years of age.I am from a small town, called De Doorns now residing in Cape Town,Bellvile South. I matriculated in 2022 in HF VAN CUTSEM HIGH SCHOOL. I am an open person,i don't mind trying out things that will bring good outcomes. Since 2020 i've always had an interest on computers but unfortunately the high school i attended did not offer any computer studies. Since i've always had an interest on how to use computer,I then saw an opportunity and i registered at Life Choices Academy to be part of the Cohort 13 and learn more about Web Development In 2023,25 September,i enrolled at Life Choice Academy where i am learning how to use computers at different angles and how to use computer as a Web Developer. As i learnt more about Coding i saw that,it needs commitment and thatif one wants to perfect in,one should dedicate themselves and be willing to learn more and get knew knowledge everyday Coding is the best thing to do and is enjoyable.My goals is to become the best Web developer and create apps that will impact people in a good way."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2022,
+            "description": "I got my matric in 2022",
+            "place": "HF Van Cutsem Combined School",
+            "type": "NSC"
+            
+        },
+        {
+            "id": 2,
+            "year": 2023,
+            "description": "Aspiring Web Developer",
+            "place": "Life Choices Academy"
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTML",
+            "experience": "I have a gained a skill in HTML."
+        },
+        {
+            "title": "CSS",
+            "experience": "I've have gained a skill in CSS."
+        },
+        {
+            "title": "JAVASCRIPT",
+            "experience": "I've have gained a skill in JAVASCRIPT."
+        },
+        {
+            "title": "BOOTSTRAP",
+            "experience": "I have a gained a skill in BOOTSTRAP."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Rachel",
+            "surname": "Mukanya",
+            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Ruth",
+            "surname": "Mukanya",
+            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Lazola",
+            "surname": "Makubalo",
+            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Dr. Godwin P",
+            "surname": "Dzvapatsva",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "gitHub": "https://github.com/UnathiGcetywa80/To-do-list.git",
+            "vercel": "https://to-do-list-cyan-three.vercel.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "gitHub": "https://github.com/UnathiGcetywa80/calculator.git",
+            "vercel": "https://calculator-ten-tawny-10.vercel.app/"
+        },
+    
+        {
+            "name": "Chekich Sneaker Store",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "gitHub": "https://github.com/UnathiGcetywa80/Checkich-Sneaker-Store.git",
+            "vercel": "https://checkich-sneaker-store.vercel.app/"
+        },
+        {
+            "name": "Temparature converter",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "gitHub": "https://github.com/UnathiGcetywa80/temperature-converter.git",
+        }
+    ]
+}
